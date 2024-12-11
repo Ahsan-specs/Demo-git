@@ -1,4 +1,4 @@
 # Demo-git
-this is my first git repo
-<br></br>
-BY: Ahsan
+This is my first git repo
+<br>
+BY: Ahsan Ibrar
