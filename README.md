@@ -1,3 +1,3 @@
 # Demo-git
-this is my first gti
+this is my first git repo
 BY: Ahsan
